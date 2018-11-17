@@ -1,4 +1,3 @@
-console.log("js file!");
 /*
 URL -> http://api.giphy.com/v1/gifs/search?q=cats&api_key=
 Key -> dc6zaTOxFJmzC
